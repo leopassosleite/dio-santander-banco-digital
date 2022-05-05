@@ -1,5 +1,6 @@
 package com.leo.dio.santander.backlineapi.model;
 
-public class MovimentacaoTipo {
-
+public enum MovimentacaoTipo {
+	RECEITA,
+	DESPESA
 }
