@@ -1,5 +1,0 @@
-package com.leo.dio.santander.backlineapi.repository;
-
-public interface CorrentistaRepository {
-
-}
